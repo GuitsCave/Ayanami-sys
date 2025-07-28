@@ -1,6 +1,6 @@
 # 🤖 REI — Agente Inteligente para Automação de Rotinas
 
-**REI** (Referência, Execução e Inteligência) é uma IA local criada para interpretar comandos de texto em linguagem natural e automatizar rotinas do dia a dia com eficiência e discrição.
+**REI** é uma IA local criada para interpretar comandos de texto em linguagem natural e automatizar rotinas do dia a dia com eficiência e discrição.
 
 Inspirada na personagem **Rei Ayanami** do anime *Neon Genesis Evangelion*, REI possui uma personalidade calma, lógica e respeitosa — respondendo de forma clara, direta e acolhedora.
 
